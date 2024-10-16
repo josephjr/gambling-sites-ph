@@ -5,12 +5,13 @@
 This document outlines the steps and considerations for blocking access to gambling sites in the Philippines. It aims to provide a comprehensive guide for organizations, internet service providers (ISPs), and individuals looking to restrict access to online gambling platforms.
 
 ## Background
-The Philippine government regulates online gambling through the Philippine Amusement and Gaming Corporation (PAGCOR) and the Department of Justice (DOJ). Blocking unauthorized gambling sites is part of efforts to curb illegal online gambling activities and protect citizens. While authorized gambling sites are regulated by the said agency, we cannot guarantee that minors can access this platform unoticed. I create this collection in order to protect minors accessing gambling sites.
+The Philippine government regulates online gambling through the Philippine Amusement and Gaming Corporation (PAGCOR) and the Department of Justice (DOJ). Blocking unauthorized gambling sites is part of efforts to curb illegal online gambling activities and protect citizens.
+
+While authorized gambling sites are regulated by the said agency, we cannot guarantee that minors can access this platform unoticed. Protecting minors from accessing gambling sites is crucial for their safety and well-being. Parents and guardians play a vital role by monitoring internet usage and educating children about the risks associated with gambling and create a safer environment, ensuring that young individuals are shielded from potential harm and the negative consequences of gambling.
 
 ## Objectives
-Prevent access to unlicensed gambling websites.
-Ensure compliance with Philippine laws and regulations.
-Promote responsible online behavior.
+ - Prevent access to licensed and unlicensed gambling websites to protect minors.
+ - Promote responsible online behavior.
 
 ## Steps to Block Gambling Sites
 1. Identify Gambling Sites
