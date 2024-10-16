@@ -1,0 +1,45 @@
+# Title: gambling-sites-ph/hosts gambling
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 17 October 2024 12:00:00 (PHT)
+# The unified hosts file was not used while generating this file.
+# Extensions used to generate this file: gambling
+# Number of unique domains:
+#
+# Fetch the latest version of this file: https://
+# Project home page: https://github.com/josephjr/gambling-sites-ph
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Title: 
+# Last modified: 16 Oct 2024 12:00 PHT
+# Version: 
+# Blocked: 
+# ===============================================================
+
+# ===============================================================
+# AB Leisure Exponent, Inc. (ABLE)
+# Traditional Bingo Games
+# Bingo Plus
+# ===============================================================
+0.0.0.0 bingoplus.ph
+0.0.0.0 bingoplus.com
+0.0.0.0 bingoplus.net
+0.0.0.0 lucky.bingoplus.com
+0.0.0.0 fun.bingoplus.com
+0.0.0.0 play.bingoplus.com
+0.0.0.0 bingoplus.com.ph
+0.0.0.0 bingoplus.online
+0.0.0.0 bingoplusios1.com
+0.0.0.0 bingoplusios2.com
+0.0.0.0 bingoplusandroid1.com
+0.0.0.0 bingoplusandroid2.com
+0.0.0.0 fishplus.ph
+0.0.0.0 minesplus.ph
+
