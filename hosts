@@ -29,19 +29,30 @@
 # Bingo Plus
 # ===============================================================
 0.0.0.0 bingoplus.ph
+0.0.0.0 www.bingoplus.ph
 0.0.0.0 bingoplus.com
+0.0.0.0 www.bingoplus.com
 0.0.0.0 bingoplus.net
+0.0.0.0 www.bingoplus.net
 0.0.0.0 lucky.bingoplus.com
 0.0.0.0 fun.bingoplus.com
 0.0.0.0 play.bingoplus.com
 0.0.0.0 bingoplus.com.ph
+0.0.0.0 www.bingoplus.com.ph
 0.0.0.0 bingoplus.online
+0.0.0.0 www.bingoplus.online
 0.0.0.0 bingoplusios1.com
+0.0.0.0 www.bingoplusios1.com
 0.0.0.0 bingoplusios2.com
+0.0.0.0 www.bingoplusios2.com
 0.0.0.0 bingoplusandroid1.com
+0.0.0.0 www.bingoplusandroid1.com
 0.0.0.0 bingoplusandroid2.com
+0.0.0.0 www.bingoplusandroid2.com
 0.0.0.0 fishplus.ph
+0.0.0.0 www.fishplus.ph
 0.0.0.0 minesplus.ph
+0.0.0.0 www.mineplus.ph
 
 # ===============================================================
 # Ascend Innovation Technology Corporation (Ascend)
@@ -50,6 +61,7 @@
 # Bling Win
 # ===============================================================
 0.0.0.0 blingwin.com
+0.0.0.0 www.blingwin.com
 
 # ===============================================================
 # Bloomberry Resorts and Hotels Inc. (Solaire Resort and Casino)
@@ -68,6 +80,18 @@
 0.0.0.0 bigbunny.ph
 0.0.0.0 www.bigbunny.ph
 0.0.0.0 bigbunny.com.ph
+0.0.0.0 www.bigbunny.com.ph
+
+# ===============================================================
+# Breddas Inc. (Breddas)
+# Electronic (eCasino) Games, Electronic (eBingo) Games
+# Sports Betting, Specialty Games
+# Happybingo.ph, Crazywin
+# ===============================================================
+0.0.0.0 happybingo.ph
+0.0.0.0 www.happybingo.ph
+0.0.0.0 crazywin.ph
+0.0.0.0 www.crazywin.ph
 
 
 
