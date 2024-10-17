@@ -1,4 +1,4 @@
-# Title: gambling-sites-ph/hosts gambling
+# Title: Gambling Site PH
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
@@ -6,9 +6,9 @@
 # Date: 17 October 2024 12:00:00 (PHT)
 # The unified hosts file was not used while generating this file.
 # Extensions used to generate this file: gambling
-# Number of unique domains:
+# Number of unique domains: 60
 #
-# Fetch the latest version of this file: https://
+# Fetch the latest version of this file: https://raw.githubusercontent.com/josephjr/gambling-sites-ph/refs/heads/main/hosts
 # Project home page: https://github.com/josephjr/gambling-sites-ph
 #
 # ===============================================================
@@ -17,14 +17,14 @@
 
 
 # End of custom host records.
-# Title: 
-# Last modified: 16 Oct 2024 12:00 PHT
-# Version: 
-# Blocked: 
+# Title: Gambling Site PH 
+# Last modified: 17 Oct 2024 02:00 PHT
+# Version: v1.0.0
+# Blocked: N/A
 # ===============================================================
 
 # ===============================================================
-# AB Leisure Exponent, Inc. (ABLE)
+# 01.) AB Leisure Exponent, Inc. (ABLE)
 # Traditional Bingo Games
 # Bingo Plus
 # ===============================================================
@@ -55,7 +55,7 @@
 0.0.0.0 www.mineplus.ph
 
 # ===============================================================
-# Ascend Innovation Technology Corporation (Ascend)
+# 02.) Ascend Innovation Technology Corporation (Ascend)
 # Electronic (eCasino) Games, Electronic (eBingo) Games
 # Sports Betting, Specialty Games
 # Bling Win
@@ -64,7 +64,7 @@
 0.0.0.0 www.blingwin.com
 
 # ===============================================================
-# Bloomberry Resorts and Hotels Inc. (Solaire Resort and Casino)
+# 03.) Bloomberry Resorts and Hotels Inc. (Solaire Resort and Casino)
 # Electronic (eCasino) Games
 # Solaire Online
 # ===============================================================
@@ -72,7 +72,7 @@
 0.0.0.0 www.solaireonlinecasino.com
 
 # ===============================================================
-# Blue Phoenix Tech Solutions Corp. (Blue Phoenix)
+# 04.) Blue Phoenix Tech Solutions Corp. (Blue Phoenix)
 # Electronic (eCasino) Games, Electronic (eBingo) Games
 # Sports Betting, Specialty Games, Numeric Games
 # BIGBUNNY
@@ -83,7 +83,7 @@
 0.0.0.0 www.bigbunny.com.ph
 
 # ===============================================================
-# Breddas Inc. (Breddas)
+# 05.) Breddas Inc. (Breddas)
 # Electronic (eCasino) Games, Electronic (eBingo) Games
 # Sports Betting, Specialty Games
 # Happybingo.ph, Crazywin
@@ -94,7 +94,7 @@
 0.0.0.0 www.crazywin.ph
 
 # ===============================================================
-# CD Extreme OPC (CD Extreme)
+# 06.) CD Extreme OPC (CD Extreme)
 # Electronic (eCasino) Games, Sports Betting
 # Online Poker Games
 # 747
@@ -105,7 +105,7 @@
 0.0.0.0 www.747.live
 
 # ===============================================================
-# Cyber Dot Com Technology Corp (Cyber Dot)
+# 07.) Cyber Dot Com Technology Corp (Cyber Dot)
 # Electronic (eCasino) Games, Electronic (eBingo) Games
 # Sports Betting, Specialty Games
 # GamePH, Luckyi, King Club, Tongitstok
@@ -120,7 +120,7 @@
 0.0.0.0 www.tongitstok.com
 
 # ===============================================================
-# DW Technologies Asia Inc. (DW Technologies)
+# 08.) DW Technologies Asia Inc. (DW Technologies)
 # Electronic (eCasino) Games, Specialty Games
 # Casino Maxx
 # ===============================================================
@@ -132,17 +132,80 @@
 0.0.0.0 www.casinomaxx.com.ph
 
 # ===============================================================
-# Enigma Software Solutions Inc. (Engima)
+# 09.) Enigma Software Solutions Inc. (Engima)
 # Electronic (eCasino) Games
 # Patokbet
 # ===============================================================
 0.0.0.0 patokbet.com
 0.0.0.0 www.patokbet.com
 
+# ===============================================================
+# 10.) ESAT Pilipinas Teknik, OPC (ESAT)
+# Electronic (eCasino) Games, Electronic (eBingo) Games
+# Sports Betting, Specialty Games
+# Happy Play
+# ===============================================================
+0.0.0.0 happyplay.ph
+0.0.0.0 www.happyplay.ph
 
+# ===============================================================
+# 11.) Gamemaster Integrated, Inc. (GII)
+# Online Poker Games
+# BingoPlus Poker
+# ===============================================================
+0.0.0.0 gamefun.ph
+0.0.0.0 www.gamefun.ph
+0.0.0.0 wwwgamefun.ph
+0.0.0.0 www.wwwgamefun.ph
+0.0.0.0 bp-poker.com
+0.0.0.0 www.bp-poker.com
+0.0.0.0 bppoker.ph
+0.0.0.0 www.bppoker.ph
+0.0.0.0 bppoker.net
+0.0.0.0 www.bppoker.net
+0.0.0.0 bppoker.live
+0.0.0.0 www.bppoker.live
+0.0.0.0 bppoker.app
+0.0.0.0 www.bppoker.app
+0.0.0.0 bppoker.pro
+0.0.0.0 www.bppoker.pro
+0.0.0.0 tournamentplus.com
+0.0.0.0 www.tournamentplus.com
+0.0.0.0 texasplus.ph
+0.0.0.0 www.texasplus.ph
+0.0.0.0 bingopluspoker.ph
+0.0.0.0 www.bingopluspoker.ph
 
-
-
-
-
-
+# ===============================================================
+# 12.) Gavin Ventures Inc. (GVI)
+# Electronic (eCasino) Games, Electronic (eBingo) Games
+# Sports Betting, Specialty Games, Numeric Games
+# OKBet (OKFUN, OKPLAY, OKLUCK, OKGAMES, OKWIN,
+# OKSPORTS, OKZONE)
+# ===============================================================
+0.0.0.0 okbet.com
+0.0.0.0 www.okbet.com
+0.0.0.0 okgames.com
+0.0.0.0 www.okgames.com
+0.0.0.0 okgames.net
+0.0.0.0 www.okgames.net
+0.0.0.0 ok-games.ph 
+0.0.0.0 www.ok-games.ph
+0.0.0.0 okapp.chat
+0.0.0.0 www.okapp.chat
+0.0.0.0 okbet.game
+0.0.0.0 www.okbet.game
+0.0.0.0 okbet.help
+0.0.0.0 www.okbet.help
+0.0.0.0 okbet.link
+0.0.0.0 www.okbet.link
+0.0.0.0 okbet.net 
+0.0.0.0 www.okbet.net
+0.0.0.0 okbet.one
+0.0.0.0 www.okbet.one
+0.0.0.0 okfun.ph
+0.0.0.0 www.okfun.ph
+0.0.0.0 okplay.ph
+0.0.0.0 www.okplay.ph
+0.0.0.0 okgames.ph
+0.0.0.0 www.okgames.ph
