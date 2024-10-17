@@ -17,10 +17,10 @@ While authorized gambling sites are regulated by the said agency, we cannot guar
 1. Identify Gambling Sites
 Compile a list of known gambling websites that are authorized or unauthorized or illegal in the Philippines.
 
-This can include:
+  This can include:
 
- Websites with or without PAGCOR licenses.
- Sites flagged by local authorities.
+ - Websites with or without PAGCOR licenses.
+ - Sites flagged by local authorities.
 
 2. Use DNS Filtering
 Implement DNS filtering to block access to identified gambling sites. This can be done through:
