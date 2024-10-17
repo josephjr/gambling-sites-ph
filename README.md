@@ -16,18 +16,16 @@ While authorized gambling sites are regulated by the said agency, we cannot guar
 ## Steps to Block Gambling Sites
 1. Identify Gambling Sites
 Compile a list of known gambling websites that are authorized or unauthorized or illegal in the Philippines.
-- This can include:
++ This can include:
   * Websites with or without PAGCOR licenses.
   * Sites flagged by local authorities.
 
 2. Use DNS Filtering
 Implement DNS filtering to block access to identified gambling sites. This can be done through:
- 
- Custom DNS Servers: Configure your network to use DNS servers that block gambling sites.
- DNS Filtering Services: Utilize third-party services that offer filtering capabilities.
++ Custom DNS Servers: Configure your network to use DNS servers that block gambling sites.
++ DNS Filtering Services: Utilize third-party services that offer filtering capabilities.
 
 3. Configure Firewall Rules
 Set up firewall rules to prevent access to gambling sites:
-
- IP Blocking: Block IP addresses associated with known gambling sites.
- URL Filtering: Use URL filtering features to deny access to specific domains.
++ IP Blocking: Block IP addresses associated with known gambling sites.
++ URL Filtering: Use URL filtering features to deny access to specific domains.
